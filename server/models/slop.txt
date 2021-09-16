@@ -1,0 +1,7 @@
+"size": "medium",
+    "crust": "regular",
+    "toppings": ["green peppers", "onions", "pepporoni"],
+    "sauce": "traditional",
+    "numOrders": 1,
+    "cheese": "mozerralla",
+    "readyBy": "2021-09-16T11:55:00"
